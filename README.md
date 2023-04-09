@@ -8,6 +8,7 @@ Este projeto consiste em um app que armazena suas despesas e gera um grafico do 
 - Apagar despesa;
 - Listar despesas
 
-## Objetivo
+## Objetivos
 
-O objetivo deste projeto é aprender a listar itens e utilizar mais widgets do Flutter.
+- Aprender a listar itens e utilizar mais widgets do Flutter.
+- Trabalhar com MediaQuery para permitir a adaptação do layout em diferentes tamanhos de tela.
